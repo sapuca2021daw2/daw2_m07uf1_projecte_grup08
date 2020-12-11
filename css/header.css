@@ -1,0 +1,111 @@
+.header {
+    display: flex;
+    height: 7em;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-bottom: solid #FF7900;
+    background-color: white;
+    /*background-image: linear-gradient(to right, #CEE9E2, #DFF3ED);*/
+    z-index: 1;
+    margin-bottom: 180px;
+    ;
+}
+
+
+/* MENÚ ******************************************/
+
+.menu {
+    width: 60%;
+    margin: 3.5em 0 0 0;
+    text-align: center;
+}
+
+.menu li {
+    text-align: center;
+    display: inline-block;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.btn {
+    background-color: transparent;
+    border-radius: 10em;
+    border: solid 0.1em;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font: 0.7em anton;
+    background-color: transparent;
+    width: 6em;
+    height: 2em;
+    color: #FF7900;
+    margin-top: -0.3em;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #FF7900;
+    transition-duration: 0.4s;
+    border: none;
+}
+
+.rrss li {
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 2.5em;
+}
+
+.btnrss {
+    width: 50px;
+    height: 50px;
+    background-size: 60px;
+    background-position: center;
+    border-radius: 50%;
+    border-style: none;
+    cursor: pointer;
+}
+
+.btnrss:hover {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.fb {
+    background-image: url("/IMATGES/facebook.png");
+}
+
+.tw {
+    background-image: url("/IMATGES/twitter.png");
+    margin-left: 1.5em;
+}
+
+.it {
+    background-image: url("/IMATGES/instagram.png");
+    margin-left: 1.5em;
+}
+
+.btnNosaltres {
+    margin-top: 5em;
+    width: 20em;
+    height: 3em;
+    font-size: 1em;
+}
+
+.btnServeis {
+    margin-top: 3em;
+    margin-bottom: 2em;
+    width: 20em;
+    height: 3em;
+    font-size: 1em;
+}
+
+.btnForm {
+    margin-top: 3em;
+    margin-bottom: 2em;
+    width: 20em;
+    height: 3em;
+    font-size: 1em;
+}
