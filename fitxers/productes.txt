@@ -1,0 +1,22 @@
+23,consola PS5,tecnologia,250,/daw2_m07uf1_projecte_grup08/productes/imatges/ps5.jpg
+19,botes,roba,50,/daw2_m07uf1_projecte_grup08/productes/imatges/botes.jpg
+43,camisa,roba,32,/daw2_m07uf1_projecte_grup08/productes/imatges/camisa.jpg
+38,copes,menage,20,/daw2_m07uf1_projecte_grup08/productes/imatges/copes.jpg
+49,estalvis,menage,40,/daw2_m07uf1_projecte_grup08/productes/imatges/estalvis.jpg
+9,figura,decoracio,21,/daw2_m07uf1_projecte_grup08/productes/imatges/figura.jpg
+52,galleda,jardi,15,/daw2_m07uf1_projecte_grup08/productes/imatges/galleda.jpg
+26,gerro,decoracio,13,/daw2_m07uf1_projecte_grup08/productes/imatges/gerro.jpg
+93,gorro,roba,17,/daw2_m07uf1_projecte_grup08/productes/imatges/gorro.jpg
+39,gots,menage,42,/daw2_m07uf1_projecte_grup08/productes/imatges/gots.jpg
+17,guants,jardi,25,/daw2_m07uf1_projecte_grup08/productes/imatges/guants.jpg
+14,jaqueta,roba,70,/daw2_m07uf1_projecte_grup08/productes/imatges/jaqueta.jpg
+6,llum,decoracio,36,/daw2_m07uf1_projecte_grup08/productes/imatges/lampara.jpg
+53,pala,jardi,12,/daw2_m07uf1_projecte_grup08/productes/imatges/pala.jpg
+92,pantalons,roba,28,/daw2_m07uf1_projecte_grup08/productes/imatges/pantalons.jpg
+28,plats,menage,100,/daw2_m07uf1_projecte_grup08/productes/imatges/plats.jpg
+34,posagots,menage,20,/daw2_m07uf1_projecte_grup08/productes/imatges/posagots.jpg
+16,quadre,decoracio,19,/daw2_m07uf1_projecte_grup08/productes/imatges/quadre.jpg
+64,regadora,jardi,22,/daw2_m07uf1_projecte_grup08/productes/imatges/regadora.jpg
+13,rellotge,decoracio,17,/daw2_m07uf1_projecte_grup08/productes/imatges/rellotge.jpg
+21,tisores,jardi,8,/daw2_m07uf1_projecte_grup08/productes/imatges/tisores.jpg
+31,switch,tecnologia,300,/daw2_m07uf1_projecte_grup08/productes/imatges/switch.jpg
